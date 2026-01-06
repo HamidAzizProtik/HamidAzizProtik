@@ -1,8 +1,6 @@
 ## Hi there 👋
 I am Hamid Aziz Protik, a student who enjoys building small tools and games in his free time.
 
-> Aspiring developer with an interest in systems design
-
 ### Languages I specialize in ⚡
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
