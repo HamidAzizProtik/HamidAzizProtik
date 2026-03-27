@@ -1,10 +1,17 @@
-## Hi there 👋
-I am Hamid Aziz Protik, a student who enjoys building small practical tools and games in his free time.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lost-in-recursion;No-return-condition-found;Tapping-the-kernel&cursor=__&color=ff6b6b&font=Fira%20Code&size=26&width=420&height=60)](https://git.io/typing-svg)
 
-### What I enjoy building 🛠️
-- Small tools that solve real-world problems
+> 💬 breaking things until they explain themselves.
+
+#### 🛠️ What I enjoy building 
 - Interactive systems
 - Projects that mix logic, creativity, and performance
 
+#### 🌱 Projects
+- ```⚙️``` ```Liege```   
+    --> ```Custom operating system built from scratch```
+
 ## Languages 💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+
+![ASM](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
