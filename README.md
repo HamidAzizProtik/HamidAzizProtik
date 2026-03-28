@@ -6,11 +6,13 @@
 - Interactive systems
 - Projects that mix logic, creativity, and performance
 
-#### 🌱 Projects
-- ```⚙️``` ```Liege```   
+#### 🌱 Some of my projects
+- ```📟``` ```Liege```   
     --> ```Custom operating system built from scratch```
+- ```💡``` ```FSA ML```   
+    --> ```Financial sentiment analysis across a full stack```
 
-## Languages 💻
+## ⚙️ Languages
 
 ![ASM](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
