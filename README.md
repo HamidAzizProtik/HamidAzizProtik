@@ -9,4 +9,4 @@
 - ```💡``` ```FSA ML```   
        --> ```Financial sentiment analysis across a full stack```
 ## ⚙️ Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,dart&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python&theme=dark)](https://skillicons.dev)
