@@ -7,6 +7,6 @@
 - ```📟``` ```USCIS Data Pipeline```   
        --> ```Custom program to pull data related to visa pipelines```
 - ```💾``` ```Stacked Shadows```   
-       --> ```A game that i am working on as a solo developer```
+       --> ```A game that I am working on as a solo developer```
 ## ⚙️ Languages
 [![My Skills](https://skillicons.dev/icons?i=c,python&theme=dark)](https://skillicons.dev)
