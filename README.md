@@ -6,7 +6,7 @@
 #### 🌱 Some of my projects
 - ```📟``` ```USCIS Data Pipeline```   
        --> ```Custom program to pull data related to visa pipelines```
-- ```💡``` ```FSA ML```   
-       --> ```Financial sentiment analysis across a full stack```
+- ```💾``` ```Stacked Shadows```   
+       --> ```A game that i am working on as a solo developer```
 ## ⚙️ Languages
 [![My Skills](https://skillicons.dev/icons?i=c,python&theme=dark)](https://skillicons.dev)
