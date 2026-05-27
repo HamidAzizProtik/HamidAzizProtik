@@ -4,8 +4,8 @@
 - Interactive systems
 - Projects that mix logic, creativity, and performance
 #### 🌱 Some of my projects
-- ```📟``` ```Liege```   
-       --> ```Custom operating system built from scratch```
+- ```📟``` ```USCIS Data Pipeline```   
+       --> ```Custom program to pull data related to visa pipelines```
 - ```💡``` ```FSA ML```   
        --> ```Financial sentiment analysis across a full stack```
 ## ⚙️ Languages
