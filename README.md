@@ -3,10 +3,11 @@
 #### 🛠️ What I enjoy building 
 - Interactive systems
 - Projects that mix logic, creativity, and performance
-#### 🌱 Some of my projects
+<!-- #### 🌱 Some of my projects
 - ```📟``` ```USCIS Data Pipeline```   
        --> ```Custom program to pull data related to visa pipelines```
 - ```💾``` ```Stacked Shadows```   
        --> ```A game that I am working on as a solo developer```
+-->
 ## ⚙️ Languages
 [![My Skills](https://skillicons.dev/icons?i=c,python&theme=dark)](https://skillicons.dev)
