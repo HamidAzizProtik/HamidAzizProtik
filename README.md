@@ -5,4 +5,4 @@
 - Projects that mix logic, creativity, and performance
 
 ## ⚙️ Languages
-[![My Skills](https://skillicons.dev/icons?i=c,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,javascript,python&theme=dark)](https://skillicons.dev)
