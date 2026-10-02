@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lost-in-recursion;No-return-condition-found;Tapping-the-kernel&cursor=__&color=ff6b6b&font=Fira%20Code&size=26&width=360&height=60)](https://git.io/typing-svg)
 
-<img align="right" src="https://i.pinimg.com/736x/5d/5a/b1/5d5ab1fe76f100defb3a8d84b6e4dc4e.jpg" width="40%" />
+<img align="right" src="https://i.pinimg.com/736x/59/ce/d2/59ced2e6ee7275960a45c0cdaebda7ae.jpg" width="40%" />
 
 > 💬 breaking things until they explain themselves.
 
