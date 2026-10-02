@@ -4,16 +4,16 @@
 
 > 💬 breaking things until they explain themselves.
 
-## 💻 What I enjoy building 
+### 💻 What I enjoy building 
 - Interactive systems
 - Projects that mix logic, creativity, and performance
 
-## ⚙️ Languages I use
+### ⚙️ Languages I use
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,python&theme=dark)](https://skillicons.dev)
 
 <br clear="right"/>
 
-## 🌿 What I do beyond code
+### 🌿 What I do beyond code
 ```cpp
 void printHobbies() {
     std::cout << "Learning more about STEM \n"
